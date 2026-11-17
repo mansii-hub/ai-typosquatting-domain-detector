@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Large datasets
+dataset/*.csv
+
+# Generated scan results
+results/*.csv
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/

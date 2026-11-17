@@ -1,0 +1,12 @@
+streamlit
+flask
+flask-cors
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn==1.7.2
+joblib
+tldextract
+xgboost
+requests
